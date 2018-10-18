@@ -1,6 +1,7 @@
 # Project-Team-15
 
 Team Members: Sai Harshith Reddy, Ranjith Kumar, Nachiketh Wattamwar, Vinay Kovuri
+TeamName : WizardsAtWork
 
 Idea 1)  **Traffic signal automation:**
 
@@ -26,5 +27,5 @@ Idea 3)  **Email/chat application using Blockchain**
 Problem: Recently Facebook data got hacked and mostly of the data could be leaked.
 Here to prevent data leakage we will use blockchain for communication between the peers.
 
-Description: Using blockchain we can store the data in distributed ledger to avoid data hacks. A decentralised blockchain network will be created 
-where data will be accessible to the receiver whom sender has given the authorization. 
+Description: Using blockchain we can store the data in distributed ledger to avoid data hacks. A **decentralised** blockchain network will be created 
+where data will be accessible only to the receiver whom sender has given the authorization. 
