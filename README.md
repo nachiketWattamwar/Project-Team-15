@@ -1,4 +1,4 @@
-# Project-Team-15
+# Project-Team-15 - none approved, submit novel ideas 
 
 Team Members: Sai Harshith Reddy, Ranjith Kumar, Nachiketh Wattamwar, Vinay Kovuri
 
