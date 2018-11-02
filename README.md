@@ -4,6 +4,12 @@ Team Members: Sai Harshith Reddy, Ranjith Kumar, Nachiketh Wattamwar, Vinay Kovu
 
 TeamName : WizardsAtWork
 
+New Idea:  **Image captioning with voice for blind people:**
+
+Problem: There are a lot of images/ hoardings which are put up everywhere near us. Blind people cannot see the images which have useful information. 
+
+We will build a machine learning algorithm which will analyze the image and provide a caption for the image with voice.
+
 Idea 1)  **Traffic signal automation:**
 
 Problem : Most of the time we wait at the signal even when there are no cars going. 
