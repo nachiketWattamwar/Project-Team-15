@@ -1,6 +1,6 @@
 # Project-Team-15
 
-Team Members: Sai Harshith Reddy, Ranjith Kumar, Nachiketh Wattamwar, Vinay Kovuri
+Team Members: Sai Harshith Reddy, Ranjith Kumar, Nachiket Wattamwar, Vinay Kovuri
 
 TeamName : WizardsAtWork
 
